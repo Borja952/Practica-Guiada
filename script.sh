@@ -1,0 +1,2 @@
+Listado completo
+ls -l
